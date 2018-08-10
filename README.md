@@ -31,6 +31,8 @@ Wir benutzen die Software <em><b>Git</b></em> und die Plattform <em><b>GitHub</b
 
 GitHub ist einfach nur eine Plattform die das Versionieren von Git-Projekten einfach darstellt. Natürlich hat diese tolle Plattform weitaus mehr zu bieten dazu klick einfach [hier](https://guides.github.com/activities/hello-world/). Dort findest du ein kleines Tutorial, was dich in GitHub und Git einführt.
 
+GitHub benutzt außerdem eine simple Syntax zum Formatieren von Texten (wie diesen *h***ie**~~r~~), eine Übersicht gibt es [hier](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+
 ### Weitere Ressourcen 
 ---
 
