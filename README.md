@@ -3,7 +3,7 @@
 
 ## Inhaltsverzeichnis
 
-- [Kurze Einführung](#informationen)
+- [Informationen](#informationen)
 - [Standarts und Codingstyle](#standarts-und-codingstyle)
 - [Programme die wir benutzen](#programme-die-wir-benutzen)
 ---
